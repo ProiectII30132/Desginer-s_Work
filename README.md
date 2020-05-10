@@ -8,3 +8,4 @@ To Do List:
 - Intro pentru UserMenu
 - Interfata Adminului
 - Update-uri necesare pentru cei din echipa de Cod
+- Prezentarea Serviciului de Service
